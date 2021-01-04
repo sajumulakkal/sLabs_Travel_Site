@@ -1,5 +1,5 @@
 {
-  "name": "travel-site",
+  "name": "sLabs_Travel_Site",
   "version": "1.0.0",
   "scripts": {
     "dev": "webpack-dev-server",
